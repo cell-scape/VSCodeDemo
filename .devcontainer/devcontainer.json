@@ -1,4 +1,4 @@
 {
    "image": "julia",
-   "extensions": ["julialang.language-julia"] 
+   "extensions": ["julialang.language-julia"]
 }
